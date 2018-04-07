@@ -1,0 +1,5 @@
+http:// {
+    root /data/public
+    fastcgi / unix:/run/php/sock php
+    gzip
+}
