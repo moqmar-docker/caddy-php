@@ -1,4 +1,4 @@
-FROM caddy
+FROM momar/caddy
 LABEL maintainer="contact-docker@mo-mar.de"
 
 USER 0
